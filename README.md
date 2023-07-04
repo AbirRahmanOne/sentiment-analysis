@@ -4,7 +4,7 @@
 `python3.8 -m venv env`
 
 ### for install dependency 
-`pip install -r requirements.txt 
+`pip install -r requirements.txt` 
 
 #### for run the project 
 ### We're now ready to test the API we've built. Let's fire up the server from the command line.
